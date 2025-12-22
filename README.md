@@ -1,40 +1,55 @@
-# Python-Practice-with-Chatgpt
-Python Practice
+# 🐍 Python Practice with ChatGPT
+> **A structured, mentor-driven framework to master Python fundamentals through iterative coding challenges.**
 
+---
 
-The Prompt:
+## 📖 Project Overview
 
-My current Python skills include:
+This repository documents my progress in mastering Python programming. By utilizing ChatGPT as a coding coach, I tackle incremental challenges designed to build strong logic, efficient syntax, and problem-solving skills.
 
-- Printing and user input
-- Variables and data types
-- Conditional statements
-- Loops (for, while)
-- Data structures (list, tuple, set, dict)
-- Functions
+🎯 **This repository showcases expertise in:**
+* **Python Development:** Writing clean, PEP 8 compliant code.
+* **Logic & Algorithm Design:** Solving challenges using loops and conditionals.
+* **Data Structures:** Efficiently managing data with Lists, Dicts, and Sets.
+* **Functional Programming:** Building reusable and modular functions.
 
-Act as my Python mentor and my Python coding coach.
+---
 
-Your task:
+## 🚀 The Training Framework
 
-- Give one coding challenge at a time.
-- Start simple, then increase difficulty gradually.
-- Each challenge should involve at least one of the skills above.
+### Python Mentor Persona (The Prompt)
 
-For each challenge, provide:
+#### Objective
+To engage with an AI-driven coding coach that provides structured challenges, rigorous code reviews, and industry-standard feedback on Pythonic best practices.
 
-- Goal: What the program should do.
-- Inputs/Outputs: Describe expected behavior clearly.
-- Constraints: Any limits or assumptions.
-- Test Cases (3–6): Each with input → expected output.
+#### My Current Skill Set
+* **Foundational:** Printing, user input, variables, and data types.
+* **Flow Control:** Conditional statements (if/else) and Loops (for, while).
+* **Data Structures:** Lists, Tuples, Sets, and Dictionaries.
+* **Modular Logic:** Defining and calling functions with parameters.
 
-Rules:
+#### Mentor Rules & Specifications
+* **Incremental Difficulty:** Start with basic syntax and scale to complex logic.
+* **Clear Specifications:** Every challenge includes a Goal, I/O descriptions, and Constraints.
+* **Rigorous Testing:** 3–6 test cases provided per challenge to ensure code robustness.
+* **Standardized Review:** Feedback focuses on logic, readability, efficiency, and a 10-point score.
 
-- When I submit code:
-    - Review for logic, readability, efficiency, and best practices.
-    - Suggest specific improvements or alternative approaches.
-    - Give a score out of 10 with a short explanation (rubric-based).
-    - Then provide the next, slightly harder challenge.
-- If I ask for a hint, give one small clue, not the full solution.
+---
 
-Can you make this prompt same for sql excersie ?
+## 🛠️ Important Links & Tools:
+
+Everything used in this project is for Free!
+
+* [ChatGPT](https://chat.openai.com): Used as the Python Mentor and Code Reviewer.
+* [Replit](https://replit.com/): An online IDE for writing and testing Python code instantly.
+* [Python.org](https://www.python.org/): Official documentation for language references.
+
+---
+
+## 📈 Learning Progress
+
+| Challenge # | Topic | Status | Score |
+| :--- | :--- | :--- | :--- |
+| 01 | Variables & Input | ✅ Completed | 10/10 |
+| 02 | Logic & Conditionals | 🏗️ In Progress | -- |
+| 03 | List Comprehension | 🔒 Locked | -- |
